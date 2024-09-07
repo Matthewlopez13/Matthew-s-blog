@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    background-color: hwb(0 31% 47%);
+}
+
+header {
+    background-color: #333;
+    color: hsl(0, 30%, 73%);
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+.bold-text {
+    font: bold 20px Arial, sans-serif; 
+  }
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+    
+    
+    
+
+
+
+
